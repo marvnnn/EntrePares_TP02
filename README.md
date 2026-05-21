@@ -107,4 +107,4 @@ Sim.
 
 # 🎥 Vídeo de Demonstração
 
-(https://youtu.be/WSPK65PM4zk)
+https://youtu.be/WSPK65PM4zk
