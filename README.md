@@ -26,22 +26,22 @@ O projeto utiliza Tabelas Hash Extensíveis e Árvores B+ para armazenamento e i
 # 🖥️ Telas do Sistema
 
 ## Tela Inicial
-INSERIR IMAGEM DA TELA INICIAL AQUI
+![Tela Inicial](imagens/tela-inicial.jpg)
 
 ## Cadastro de Usuário
-INSERIR IMAGEM DO CADASTRO DE USUÁRIO AQUI
+![Cadastro de Usuário](imagens/cadastro-usuario.jpg)
 
 ## Menu Meus Cursos
-INSERIR IMAGEM DO MENU MEUS CURSOS AQUI
+![Menu Meus Cursos](imagens/menu-cursos.jpg)
 
 ## Busca de Cursos por NanoID
-INSERIR IMAGEM DA BUSCA POR NANOID AQUI
+![Busca NanoID](imagens/busca-nanoid.jpg)
 
 ## Menu Minhas Inscrições
-INSERIR IMAGEM DO MENU MINHAS INSCRIÇÕES AQUI
+![Menu Minhas Inscrições](imagens/minhas-inscricoes.jpg)
 
 ## Lista de Inscritos no Curso
-INSERIR IMAGEM DA LISTA DE INSCRITOS AQUI
+![Lista de Inscritos](imagens/lista-inscritos.jpg)
 
 ---
 
